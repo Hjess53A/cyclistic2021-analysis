@@ -1,4 +1,4 @@
-# cyclistic2021-analysis
+# Google Data Analytics Capstone Project: Cyclistic Customer Analysis
 Case study for the completion of Google Data Analyst specialization on Coursera
 
 The Background
