@@ -27,8 +27,8 @@ I then loaded the csv files for each month, and checked the consistency of the d
 I first created a new column callled ride_length using the started_at and ended_at columns, and then looked at the mean, median, minimum and, maximum to get a bigger picture of the data. I saw that the minimum of the ride length returned a negative result, This might be becasue of bike returns/refunds, I decided not to include these in the analysis and removed negatives from the dataframe. Next, I then looked athe the mean, median, minimum and, maximum again, but this time seperating the annual members and casual users for comparison. I also seperated the date into day of the week, months and, day to compare how the two user type use Cyclistic on average in their daily life. 
 
 ## The Analysis
-
-
+According to the analysis Casual users uses Cyclistic services longer than Annual Members
+![Casual User vs Annual Member Summary](cyclistic2021-analysis/cyclistic_analysis_images/member-vs-casual_summary.png "Casual Users vs Annual Members")
 
 
 
