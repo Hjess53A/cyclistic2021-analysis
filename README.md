@@ -25,9 +25,7 @@ The Data used in this analysis is found [here](https://divvy-tripdata.s3.amazona
 I installed the required packages for the analysis:
 `
 library(tidyverse)  #helps wrangle data
-
 library(lubridate)  #helps wrangle date attributes
-
 library(ggplot2)  #helps visualize data
 `
 
