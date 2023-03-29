@@ -28,10 +28,18 @@ I first created a new column callled ride_length using the started_at and ended_
 
 ## The Analysis
 According to the analysis Annual Members have a consistent number of rides throught the week, and that they have more number of rides than casual members on weekdays, but during weekends however, Cyclstic have more casual users.
+
 ![image](https://user-images.githubusercontent.com/108565654/228411397-ff38bac2-fa4d-4a0e-ab99-c0c42a87c3eb.png)
 
 Casual riders have also been shown to have a significantly longer average duration for ride length in every day of the week compared to annual members.
+
 ![image](https://user-images.githubusercontent.com/108565654/228411601-6a8fdfde-952f-4e39-af82-d29becac5857.png)
+
+
+## The Recommendation
+- Based on the analysis, a reward system for annual members converting their distances to points that earn reward promoted on digital channels may help motivate casual members to subscribe as an annual member. Use the Cyclistic App to notify them of the distance they have collected and the prizes they may gain if theys subscribe as annual members.
+
+- Targeted ads spend for casual users should be increased in weekends for greater effect since its likely that most of them  already have Cyclistic in their mind and is about to use the service.
 
 
 
