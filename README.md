@@ -12,12 +12,20 @@ Finance analysts have concluded they the annual members are much more profitable
 What is the task?
 1. Provide insights that would help the marketing team design a new strategy that would convert casual riders to annual members.
 
-Key questions to guide the future marketing program
+Key questions to guide the future marketing strategy
 1. How do annual members and casuall user use the service differently?
 2. Why would casual riders buy Cyclistic annual membership?
 3. How can Cyclistic use digital media tto convert casual riders to annual members?
 
+
 ## Phase 2: Prepare
+
+The Data used in this analysis is found [here](https://divvy-tripdata.s3.amazonaws.com/index.html). I used the data from January 2021 to December 2021. 
+
+I installed the required packages for the analysis:
+'library(tidyverse)  #helps wrangle data
+library(lubridate)  #helps wrangle date attributes
+library(ggplot2)  #helps visualize data'
 
 
 
