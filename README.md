@@ -28,7 +28,8 @@ I first created a new column callled ride_length using the started_at and ended_
 
 ## The Analysis
 According to the analysis Casual users uses Cyclistic services longer than Annual Members
-![Casual User vs Annual Member Summary](cyclistic2021-analysis/cyclistic_analysis_images/member-vs-casual_summary.png "Casual Users vs Annual Members")
+
+![cyclistic2021-analysis/cyclistic_analysis_images/member-vs-casual_summary.png](https://github.com/Hjess53A/cyclistic2021-analysis/blob/main/cyclistic_analysis_images/member-vs-casual_summary.PNG)
 
 
 
