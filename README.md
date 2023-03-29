@@ -23,9 +23,13 @@ Key questions to guide the future marketing strategy
 The Data used in this analysis is found [here](https://divvy-tripdata.s3.amazonaws.com/index.html). I used the data from January 2021 to December 2021. 
 
 I installed the required packages for the analysis:
-`library(tidyverse)  #helps wrangle data`
-`library(lubridate)  #helps wrangle date attributes`
-`library(ggplot2)  #helps visualize data`
+`
+library(tidyverse)  #helps wrangle data
+
+library(lubridate)  #helps wrangle date attributes
+
+library(ggplot2)  #helps visualize data
+`
 
 
 
