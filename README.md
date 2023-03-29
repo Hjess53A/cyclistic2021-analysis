@@ -27,10 +27,11 @@ I then loaded the csv files for each month, and checked the consistency of the d
 I first created a new column callled ride_length using the started_at and ended_at columns, and then looked at the mean, median, minimum and, maximum to get a bigger picture of the data. I saw that the minimum of the ride length returned a negative result, This might be becasue of bike returns/refunds, I decided not to include these in the analysis and removed negatives from the dataframe. Next, I then looked athe the mean, median, minimum and, maximum again, but this time seperating the annual members and casual users for comparison. I also seperated the date into day of the week, months and, day to compare how the two user type use Cyclistic on average in their daily life. 
 
 ## The Analysis
-According to the analysis Casual users uses Cyclistic services longer than Annual Members
+According to the analysis Annual Members have a consistent number of rides throught the week, and that they have more number of rides than casual members on weekdays, but during weekends however, Cyclstic have more casual users.
+![image](https://user-images.githubusercontent.com/108565654/228411397-ff38bac2-fa4d-4a0e-ab99-c0c42a87c3eb.png)
 
-![cyclistic2021-analysis/cyclistic_analysis_images/member-vs-casual_summary.png](https://github.com/Hjess53A/cyclistic2021-analysis/blob/main/cyclistic_analysis_images/member-vs-casual_summary.PNG)
-
+Casual riders have also been shown to have a significantly longer average duration for ride length in every day of the week compared to annual members.
+![image](https://user-images.githubusercontent.com/108565654/228411601-6a8fdfde-952f-4e39-af82-d29becac5857.png)
 
 
 
